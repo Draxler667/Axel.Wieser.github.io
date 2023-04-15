@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio cartographique de Axel WIESER</title>
+<style>
+		h1 {font-size: 12px;
+			text-align: justify;
+			font-family: Calibri;}
+		h2 {
+			font-size: 96px;
+			text-align: justify;
+			font-family: Calibri;
+			font-weight: normal;
+		}
+		h3 {
+			font-size: 72px;
+			text-align: justify;
+			font-family: Calibri;
+			font-weight: normal;
+		}
+		h4 {
+			font-size: 120px;
+			text-align: justify;
+			font-weight: normal;
+			font-family: Calibri;
+		}
+		p {
+			font-size: 16px;
+			text-align: justify;
+		}
+	</style>
+</head>
+<body>
+  </head>
+  <body>
+    <h1>Portfolio de Axel WIESER</h1><h3>Étudiant L3 Géographie à l’université de Strasbourg - 13 avril 2023<h3>
+
+<h3>Bonjour, je suis un étudiant en 3e année à la faculté de géographie et d’aménagement de géographie à Strasbourg. Je sors d’un DUT carrières sociales gestion urbaine à l’IUT de Châlons-en-Champagne. Et j’ai maintenant pour ambition de faire un master en Géomatique. Ma passion pour la l’information géographie à commencer au cours d’un stage a l’Institut national de l'information géographique et forestières (IGN) à Paris. J’y ais découvert le développement et les mise a jour continuelle du site internet Géoportail.<h3>
+ 
+<h3>Au cours de mon parcours universitaires et de mes précédentes expériences professionnelles j’ai développé davantage mes compétences en géomatique et en SIG. Ce portfolio a pour objectif de mettre en avant les travaux que j’ai pu produire au cours de ces différents projets.
+</h3>
+
+
+    <h4>Production cartographique</h4>
+    <h2>Universtié de Strasbourg</h2>
+
+    <img src="C:\Users\axel6\Documents\Portfolio\ACP1.png" alt="">
+    <h3>Il s'agit d'un production réalisé pour un projet tutoré que je réalise sur le sujet des désert médicaux en Guyanne.</h3>
+    
+    <h2>Projet 2</h2>
+    <img src="C:\Users\axel6\Documents\Portfolio\CAH.png" alt="Description de l'image">
+    <p>Je prout un maximum 2</p>
+    
+    <!-- Ajoutez autant de projets que vous le souhaitez -->
+    
+  </body>
+</html>
